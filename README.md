@@ -1,0 +1,1 @@
+# freezed-package-dummy
